@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "sampleapp/",
+			"problemMatcher": [
+				"$eslint-compact"
+			],
+			"label": "npm: start - sampleapp",
+			"detail": "react-scripts start"
+		}
+	]
+}

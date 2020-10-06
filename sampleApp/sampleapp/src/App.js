@@ -1,12 +1,15 @@
 import React from 'react';
 import './App.css';
+import ContentArea from './components/ContentArea/contentArea';
+import Form from './components/Form/form';
+import Sidebar from './components/Sidebar/sidebar';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      Hello World
-      </header>
+    <div>
+      <Sidebar />
+      <ContentArea />
+      <Form />
     </div>
   );
 }

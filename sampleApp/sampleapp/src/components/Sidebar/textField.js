@@ -6,3 +6,5 @@ const Text = () => {
         <div>some text</div>
     </div>
 }
+
+export default Text

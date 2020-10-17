@@ -1,0 +1,8 @@
+.sidebar {
+    grid-area: s;
+    background-color: #C4C4C4;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 10px;
+  }

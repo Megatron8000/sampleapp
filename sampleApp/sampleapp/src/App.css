@@ -14,21 +14,21 @@
 
 
 
-.sidebar {
+/* .sidebar {
   grid-area: s;
   background-color: #C4C4C4;
   border-radius: 5px;
   text-align: center;
   padding-top: 12px;
   padding-bottom: 10px;
-}
+} */
 
-.content {
+/* .content {
   grid-area: c;
   background-color: #C4C4C4;
-}
+} */
 
-.form {
+/* .form {
   grid-area: f;
   background-color: #C4C4C4;
-}
+} */

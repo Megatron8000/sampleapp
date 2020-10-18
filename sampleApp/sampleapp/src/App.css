@@ -7,7 +7,7 @@
     "s c c c"
     "s f f f";
   grid-template-rows:  500px 300px;
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: 430px 770px;
   grid-gap: 6px;
 }
 

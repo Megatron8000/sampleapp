@@ -10,4 +10,4 @@ added and styled avatar
 Edited Sidebar
 24/10
 Add social links
-
+25/10

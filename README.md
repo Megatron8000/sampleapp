@@ -8,6 +8,6 @@ include CSS modules
 added and styled avatar
 18/10
 Edited Sidebar
-23/10
+24/10
 Add social links
-Add initial state
+

@@ -12,3 +12,4 @@ Edited Sidebar
 Add social links
 26/10
 Add initial state
+27/10

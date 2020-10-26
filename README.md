@@ -13,3 +13,4 @@ Add social links
 26/10
 Add initial state
 27/10
+Need to configure skill table

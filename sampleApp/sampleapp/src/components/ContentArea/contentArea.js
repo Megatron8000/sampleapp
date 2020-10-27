@@ -7,4 +7,5 @@ const ContentArea = () => {
       <Skill />
     </div>
 }
+
 export default ContentArea

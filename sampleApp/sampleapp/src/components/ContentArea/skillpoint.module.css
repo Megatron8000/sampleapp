@@ -1,8 +1,8 @@
 .cell {
   position: fixed;
-  background-color: gray;
+  background-color: #C4C4C4;
   font-weight: bold;
-  padding: 10px;
+  padding: 28px;
   margin: 24px 0 7px 17px;
   border-radius: 4px;
 }

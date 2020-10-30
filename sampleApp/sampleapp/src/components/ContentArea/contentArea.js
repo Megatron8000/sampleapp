@@ -4,6 +4,7 @@ import Skill from './skillpoint'
 
 const ContentArea = () => {
     return <div className={classes.content}>
+    <h1 className={classes.header}>My Skills</h1>
       <Skill />
     </div>
 }

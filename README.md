@@ -13,4 +13,5 @@ Add social links
 26/10
 Add initial state
 27/10
+Now links open in new tab
 Need to configure skill table

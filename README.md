@@ -15,3 +15,5 @@ Add initial state
 27/10
 Now links open in new tab
 Need to configure skill table
+30/10
+Styled skill area

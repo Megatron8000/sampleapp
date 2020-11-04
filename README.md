@@ -17,3 +17,5 @@ Now links open in new tab
 Need to configure skill table
 30/10
 Styled skill area
+04/11
+Need to do form

@@ -1,8 +1,9 @@
 .cell {
-  position: fixed;
+  display: block;
+  width: fit-content;
   background-color: #C4C4C4;
   font-weight: bold;
-  padding: 28px;
-  margin: 24px 0 7px 17px;
+  padding: 10px;
+  margin: 4px 0 7px 17px;
   border-radius: 4px;
 }

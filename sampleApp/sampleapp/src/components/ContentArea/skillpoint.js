@@ -1,9 +1,9 @@
 import React from 'react'
 import classes from './skillpoint.module.css'
 
-const Skill = () => {
+const Skill = (props) => {
     return <div className={classes.cell}>
-        Some Skill
+        {props.name} / {props.grade}
     </div>
 }
 

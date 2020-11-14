@@ -20,3 +20,4 @@ Styled skill area
 Need to do form
 Need to configure skill table
 I dont know how do it, need read docs
+Today i study official docs

@@ -22,4 +22,5 @@ Edit initial state
 Need to do form
 Today i study official docs
 17/11
+
 Little pause for side project

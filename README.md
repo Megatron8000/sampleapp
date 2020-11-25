@@ -23,3 +23,4 @@ Need to do form
 Today i study official docs
 17/11
 Little pause for side project
+How yo do logic of form???

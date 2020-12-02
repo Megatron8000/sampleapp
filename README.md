@@ -21,8 +21,8 @@ Edit initial state
 15/11
 Need to do form
 Today i study official docs
-17/11
-Little pause for side project
 How yo do logic of form???
 25/11
 Add elements to form block
+02/12
+Little pause for side project

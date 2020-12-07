@@ -26,5 +26,5 @@ How yo do logic of form???
 Add elements to form block
 02/12
 Little pause for side project
-03/12
+08/12
 Today i study official docs

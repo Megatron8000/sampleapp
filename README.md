@@ -31,3 +31,5 @@ Add form fields
 16/12
 18/12
 Little pause for side project
+19/12
+Add style to form

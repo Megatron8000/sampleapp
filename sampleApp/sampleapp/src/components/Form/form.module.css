@@ -12,12 +12,13 @@
   padding: 10px;
   border: none;
   border-radius: 5px;
-  position: absolute;
-  bottom: 100px;
+  width: 300px;
 }
 
-.center {
+.form {
   text-align: center;
+  font-weight: 300;
+  color: #434242;
 }
 
 
@@ -25,6 +26,14 @@
   text-align: center;
   color: #434242;
   font-weight: 300;
-  font-size: 42px;
-  line-height: 49px;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.field {
+  border-radius: 5px;
+  width: 97%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
 }

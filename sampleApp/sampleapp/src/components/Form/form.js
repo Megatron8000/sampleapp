@@ -9,15 +9,17 @@ const Form = () => {
     return <div className={classes.form}>
         <h1 className={classes.header}>Add new skill</h1>
         <div className={classes.center}>
-            <form>
+            <form className={classes.form}>
                 <label>
-                    Name: <input type="text" name="name" />
+                    Enter your skill <input type="text" name="skill" className={classes.field} />
                 </label>
+                <br />
                 <label>
-                    Skill: <input type="text" name="skill" />
+                    Enter your grade  <input type="text" name="grade" className={classes.field} />
                 </label>
+                <button onClick={buttonAction} className={classes.button}>Add skill!</button>
             </form>
-            <button onClick={buttonAction} className={classes.button}>Add skill!</button>
+            
         </div>
     </div>
 }

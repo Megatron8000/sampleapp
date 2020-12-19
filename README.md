@@ -21,10 +21,13 @@ Edit initial state
 15/11
 Need to do form
 Today i study official docs
-How yo do logic of form???
 25/11
 Add elements to form block
-02/12
-Little pause for side project
 09/12
 Today i study official docs
+Add form fields
+13/12
+14/12
+16/12
+18/12
+Little pause for side project

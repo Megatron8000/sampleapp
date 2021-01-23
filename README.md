@@ -46,4 +46,5 @@ Add style to form
 18/01
 20/01
 21/01
-Little pause for side project
+23/01
+Pause for side project

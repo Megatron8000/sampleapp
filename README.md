@@ -34,3 +34,4 @@ Little pause for side project
 19/12
 Add style to form
 Pause for side project
+Need to learn documentary, i dont know how work with state
